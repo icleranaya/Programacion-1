@@ -10,17 +10,21 @@ Cabe destacar que ese curso fue mi primera experiencia como programador utilizan
 
 El repositorio consta de un conjunto de **librerías**, **soluciones a talleres** anteriores e igualmente aquellos que formaron parte de la evaluación de mi curso y el **proyecto final** del curso distribuidos en distintas categorías que constituyen los tres tipos de estructuras de datos trabajadas en el curso.
 
-#### [Lista Genérica Simplemente enlazada](Generic-List-Simple-Link/)
+#### [Recursividad](Recusion/)
+*#### [3N](3N/)
+* *Lista<T> / [Lista<T>.h](Generic-List-Simple-Link/Lista.h)
+* *Nodo<T> / [Nodo<T>.h](Generic-List-Simple-Link/Nodo.h)
+* *Makefile / [Makefile](Generic-List-Simple-Link/Makefile)
 * Lista<T> / [Lista<T>.h](Generic-List-Simple-Link/Lista.h)
 * Nodo<T> / [Nodo<T>.h](Generic-List-Simple-Link/Nodo.h)
 * Makefile / [Makefile](Generic-List-Simple-Link/Makefile)
   
-#### [Pila Genérica](Generic-Stack/)
+#### [Tipo de Datos Abstrastos](TDA/)
 * Pila<T> / [Pila<T>.h](Generic-Stack/Pila.h)
 * Nodo<T> / [Nodo<T>.h](Generic-Stack/Nodo.h)
 * Makefile / [Makefile](Generic-Stack/Makefile)
 
-#### [Cola Genérica](Generic-Tail/)
+#### [Backtracking](Backtracking/)
 * Cola<T> / [Pila<T>.h](Generic-Tail/Cola.h)
 * Nodo<T> / [Nodo<T>.h](Generic-Tail/Nodo.h)
 * Makefile / [Makefile](Generic-Tail/Makefile)
