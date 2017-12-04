@@ -10,29 +10,29 @@ Cabe destacar que ese curso fue mi primera experiencia como programador utilizan
 
 El repositorio consta de un conjunto de **librerías**, **soluciones a talleres** anteriores e igualmente aquellos que formaron parte de la evaluación de mi curso y el **proyecto final** del curso distribuidos en distintas categorías que constituyen los tres tipos de estructuras de datos trabajadas en el curso.
 
-#### [Recursividad/3N/](Recursion/3N/)
+#### [Recursividad / 3N /](Recursion/3N/)
 * Main / [3n.c](Recursion/3N/3n.c)
 * input / [input.txt](Recursion/3N/input.txt)
 * output / [output.txt](Recursion/3N/output.txt)
 * output1 / [output1.txt](Recursion/3N/output1.txt)
 
-#### [Recursividad/Ackerman-Function/](Recursion/Ackerman-Function/)
+#### [Recursividad / Ackerman-Function /](Recursion/Ackerman-Function/)
 * Main / [Ackermann.c](Recursion/Ackerman-Function/Ackermann.c)
 * input / [input.txt](Recursion/Ackerman-Function/input.txt)
 * prueba / [prueba.txt](Recursion/Ackerman-Function/prueba.txt)
 * prueba2 / [prueba2.txt](Recursion/Ackerman-Function/prueba2.txt)
 
-#### [Recursividad/Decimal-to-Another-Base/](Recursion/Decimal-to-Another-Base/)
+#### [Recursividad / Decimal-to-Another-Base /](Recursion/Decimal-to-Another-Base/)
 * Main / [cambio-base.c](Recursion/Decimal-to-Another-Base/cambio-base.c)
 * input / [input.txt](Recursion/Decimal-to-Another-Base/input.txt)
 * input1 / [input1.txt](Recursion/Decimal-to-Another-Base/input1.txt)
 * output / [output.txt](Recursion/Decimal-to-Another-Base/output.txt)
 
-#### [Recursividad/Mosaics/](Recursion/Mosaics/)
+#### [Recursividad / Mosaics /](Recursion/Mosaics/)
 * Main / [mosaicos.c](Recursion/Mosaics/mosaicos.c)
 * input / [input.txt](Recursion/Mosaics/input.txt)
   
-#### [Tipo de Datos Abstrastos/Circular-List/](TDA/Circular-List/)
+#### [Tipo de Datos Abstrastos / Circular-List /](TDA/Circular-List/)
 * Main / [Main.c](TDA/Circular-List/main.c)
 * Lista / [Lista.h](TDA/Circular-List/Lista.h)
 * Lista / [Lista.c](TDA/Circular-List/Lista.c)
@@ -41,17 +41,16 @@ El repositorio consta de un conjunto de **librerías**, **soluciones a talleres*
 * input2 / [input2.txt](TDA/Circular-List/input2.txt)
 * input3 / [input3.txt](TDA/Circular-List/input3.txt)
 
-#### [Tipo de Datos Abstrastos/Simply-Linked-List/](TDA/Simply-Linked-List/)
+#### [Tipo de Datos Abstrastos / Simply-Linked-List /](TDA/Simply-Linked-List/)
 * Main / [Main.c](TDA/Simply-Linked-List/main.c)
 * Lista / [Lista.h](TDA/Simply-Linked-List/Lista.h)
 * Lista / [Lista.c](TDA/Simply-Linked-List/Lista.c)
 * Makefile / [Makefile](TDA/Simply-Linked-List/Makefile)
 * input1 / [input1.txt](TDA/Simply-Linked-List/input1.txt)
 
-#### [Backtracking](Backtracking/)
-* Cola<T> / [Pila<T>.h](Generic-Tail/Cola.h)
-* Nodo<T> / [Nodo<T>.h](Generic-Tail/Nodo.h)
-* Makefile / [Makefile](Generic-Tail/Makefile)
+#### [Backtracking / Colonists /](Backtracking/Colonists/)
+* Main / [Main.c](Backtracking/Colonists/Main.c)
+* input / [input.in](Backtracking/Colonists/input.in)
 
 ## Contribuir
 
